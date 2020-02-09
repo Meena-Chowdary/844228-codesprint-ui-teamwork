@@ -1,1 +1,0 @@
-I have worked on the landing page using html and bootstrap.

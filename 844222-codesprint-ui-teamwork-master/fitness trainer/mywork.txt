@@ -1,0 +1,20 @@
+My associate id:
+844228 
+Other team members:
+844417, 844202, 844204, 844222 
+Team lead:
+844222 
+My Role in team:
+1. To develop View Appointment page and to save and retreive data from local storage.
+My development files:
+1. viewAppointment.html
+2. appointmentScript.js
+3. visit.css
+I was strong in:
+1. HTML5
+2. Css3
+3. Documentation
+I was weak in:
+1. Bootstrap
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
